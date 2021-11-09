@@ -1,6 +1,6 @@
 {
   "name": "a42/product-magento-micro-edition",
-  "version": "0.24.1",
+  "version": "1.243.1",
   "description": "This is a fork of the magento/product-magento-micro-edition metapackage orientated to microservice architecture.",
   "type": "project",
   "license": [
